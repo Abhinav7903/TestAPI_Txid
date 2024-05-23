@@ -23,7 +23,7 @@ This Go application provides a simple web service to fetch the last active times
 1. Clone the repository:
 
     ```sh
-    https://github.com/Abhinav7903/TestAPI_Txid.git
+    git clone https://github.com/Abhinav7903/TestAPI_Txid.git
     cd TestAPI_Txid
     ```
 
